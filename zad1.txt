@@ -1,0 +1,9 @@
+----
+Searching key for: zad1
+Key sufix: 82e717f0308ac0d6ffeda58b053873bb594600deeceb0408363bab0d, length: 56
+IV: 65aa5d6b9144def787ca766a67a04122
+Text: 1CInQx9uRgj24Bg0jjJMEqrFqJpO9yN2KoFkaHb30Pc2Obz2gZ2C/Eg2a9/4Q6Km
+Key prefix: 5E72E886
+Decrypted message: Jak sie zyje z kupa pieniedzy na koncie? 
+
+----

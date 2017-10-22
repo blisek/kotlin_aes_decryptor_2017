@@ -1,0 +1,9 @@
+----
+Searching key for: zad2
+Key sufix: 2d8b44dc5526a73e9ef1d30dc25a615af9359e4ebf5a7dd88ab1c4e, length: 55
+IV: a01717633f6fc95769a73ceb4bb848b6
+Text: oIwAUHcZpDkq3ivyNWnJBuK64huEwAESgVYnqoJYCsnBjANVN2lIHMSX2cFss44vKD2MV5D5RQZLrvHtZbRuMG6OuBjmFLgIAQ6sloadUfIzdOucqSrpYiQlaZmotyDP
+Key prefix: 0BD4914DE
+Decrypted message: Nowa liderka lewicy: Jesli wygramy, memy z Aleksandrem Kwasniewskim beda nie tylko w piateczek
+
+----

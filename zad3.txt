@@ -1,0 +1,9 @@
+----
+Searching key for: zad3
+Key sufix: 15a27ba6127e955fc08feab653d13717835ef48de6bab9c2100cb9, length: 54
+IV: 93c4ad0021548fedbe3d5cea50c5617a
+Text: B/AcL6jDpSg9jpepN5uhU+vQXXYdMnAXM87fFAbVAPgvVjC0DeS1T/yr7sHIm39jpvR8rtL14IcT8DPZ3pXPxVmbBf2rZWj/jMwjzHvuvdEbj3xHxH+RDZXwCtamfjFqR3AnS2BaNzZhdWJWqNcY/w==
+Key prefix: 06D8AF974A
+Decrypted message: Chyba nie byl zadowolony z odpowiedzi, bo po prostu podszedl i odgryzl naszemu koledze noge ponizej kolana.
+
+----
